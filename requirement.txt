@@ -1,0 +1,2 @@
+pip show numpy | grep Version
+Version: 1.23.5
