@@ -48,7 +48,4 @@ These dependencies are listed in the requirements.txt file and will be installed
 
 Contributions to this Streamlit EDA Application are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
-## License
-
-This Streamlit EDA Application is licensed under the [MIT License](LICENSE).
 

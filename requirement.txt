@@ -1,2 +1,1 @@
-pip show numpy | grep Version
-Version: 1.23.5
+numpy >= 1.23.5
